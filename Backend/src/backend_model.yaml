@@ -1,0 +1,11 @@
+
+CUDA_VISIBLE_DEVICES: 0
+
+ICH:
+  project_path : 'ICH_yolo'  
+
+tissueseg:
+  project_path : 'p2p'  
+  
+baseline:
+  project_path : 'unet'
